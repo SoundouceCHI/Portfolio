@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200">
+  <!-- Background Circle -->
+  <circle cx="50" cy="50" r="50" fill="#F0F0F0" />
+
+  <!-- Face -->
+  <circle cx="50" cy="50" r="28" fill="#FAD7B2" />
+
+  <!-- Eyes -->
+  <circle cx="40" cy="45" r="3" fill="#000" />
+  <circle cx="60" cy="45" r="3" fill="#000" />
+
+  <!-- Smile -->
+  <path d="M40 58 C45 65, 55 65, 60 58" stroke="#000" stroke-width="2" fill="none" />
+
+  <!-- Hijab -->
+  <path d="M20 40 C25 20, 75 20, 80 40 C70 70, 30 70, 20 40 Z" fill="#558B2F" />
+
+  <!-- Hijab shadow -->
+  <path d="M20 40 C25 20, 60 20, 65 40 C55 70, 30 70, 20 40 Z" fill="#33691E" />
+
+  <!-- Neck and Shoulders -->
+  <rect x="42" y="72" width="16" height="10" fill="#FAD7B2" />
+  <path d="M35 75 C30 80, 70 80, 65 75 C60 70, 40 70, 35 75 Z" fill="#558B2F" />
+</svg>
